@@ -1,1 +1,2 @@
 # HealthBridge
+HealthBridge is a web-based application designed to streamline the process of finding and booking appointments with doctors. It connects patients to doctors in their city and allows easy management of consultations, doctor profiles, and specialties. Built using a robust tech stack—MySQL, Spring Boot, and ReactJS—it aims to provide an efficient platform for both patients and doctors, focusing on accessibility, user experience, and seamless appointment scheduling.
